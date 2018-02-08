@@ -21,6 +21,9 @@ public class W07P03 extends Application{
         VBox root = new VBox();
         root.setPrefWidth(350);
         root.setPrefHeight(150);
+
+
+
         root.setAlignment(Pos.CENTER);
 
         Button button = new Button();
